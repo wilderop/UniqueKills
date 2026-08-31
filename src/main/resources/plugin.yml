@@ -1,0 +1,8 @@
+name: UniqueKills
+version: 1.0
+main: com.example.uniquekills.UniqueKillsPlugin
+api-version: 1.21
+commands:
+  topkiller:
+    description: Displays top unique killers or a player's unique kills
+    usage: /topkiller [player]
